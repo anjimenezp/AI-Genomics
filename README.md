@@ -46,7 +46,7 @@ This repository contains code for a genomics project utilizing artificial intell
 ### 10. Plotting:
 - Matplotlib is used to plot training and validation loss curves.
 
-11. Example Prediction:
+### 11. Example Prediction:
 - An example DNA sequence is provided, and the trained model predicts its class.
 
 Feel free to explore the code and adapt it to your genomics classification tasks. If you have any questions or suggestions, please open an issue.

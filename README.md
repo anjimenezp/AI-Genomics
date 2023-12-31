@@ -1,7 +1,7 @@
 # AI-Genomics: Genetics with Artificial Intelligence Project
 
 ## Description
-Welcome to the AI-Genomics repository, a project utilizing artificial intelligence for genetic analysis. This project focuses on leverage artificial intelligence to analyze DNA sequences and classify them based on discernible motifs..
+Welcome to the AI-Genomics repository, a project utilizing artificial intelligence for genetic analysis. This project focuses on leverage artificial intelligence to analyze DNA sequences and classify them based on discernible motifs.
 
 ## Requirements
 - Python 3
